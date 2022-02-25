@@ -5,7 +5,7 @@ import icon from '../images/crypto.png'
 import { BulbOutlined, FundOutlined, HomeOutlined, MoneyCollectOutlined } from '@ant-design/icons/lib/icons'
 const Navbar = () => {
   return (
-    <div classname="nav-container">
+    <div className="nav-container">
 
     <div className="logo-container">
         <Avatar src={icon} size="large"/>
